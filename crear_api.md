@@ -34,6 +34,6 @@ El proyecto creado se mostrará como se ve en la siguiente imagen
 `Scaffold-DbContext "Server=SERVIDOR1;Database=BASEDATOS1;Trusted_Connection=True; Trust Server Certificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force`  
 **Resultado**  
 ![imagen](https://github.com/user-attachments/assets/4b4770f9-ce76-415f-81dd-58c0359cfe79)
-La carpeta **Models** ahora ya dispone de todas las clases que se corresponden con las tablas de la base de datos  
+La carpeta **📁 Models** ahora ya dispone de todas las clases que se corresponden con las tablas de la base de datos  
 ![imagen](https://github.com/user-attachments/assets/1bb6ae44-3147-40a7-9952-43ff4293d033)
 
