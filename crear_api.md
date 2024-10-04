@@ -10,3 +10,6 @@
 10. Siguiente
 ![imagen](https://github.com/user-attachments/assets/d7969681-6ddf-4758-a2a9-98e856f24c86)
 11. Crear
+![imagen](https://github.com/user-attachments/assets/719e5474-c6ff-4015-a8a5-c297cdc7b086)
+
+
