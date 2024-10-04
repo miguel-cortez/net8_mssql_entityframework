@@ -23,7 +23,7 @@ El proyecto creado se mostrará como se ve en la siguiente imagen
 3. Microsoft.EntityFrameworkCore.SqlServer
 ![imagen](https://github.com/user-attachments/assets/66ef0bd9-a130-4018-90da-87dbe7153ceb)
 4. Microsoft.EntityFrameworkCore.Tools
-![imagen](https://github.com/user-attachments/assets/230ece1e-e87c-403b-bd6c-d49f53c31da5)
+![imagen](https://github.com/user-attachments/assets/af0228c4-f503-4932-adf1-45bfab985e8a)
 ### Crear el modelo a partir de una base de datos existente
 #### Proceso
 1. Asegurarse de tener una base de datos ya creada en Microsoft SQL Server y credenciales para establecer conexión con el servidor.
