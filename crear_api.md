@@ -1,5 +1,5 @@
-## Creación de un proyecto ASP.NET Core Web API 
-### Procedimiento 
+## Proyecto ASP.NET Core Web API 
+### Creación de un nuevo proyecto
 1. Inicio
 2. Visual Studio 2022
 3. Crear un proyecto
@@ -13,4 +13,12 @@
 El proyecto creado se mostrará como se ve en la siguiente imagen
 ![imagen](https://github.com/user-attachments/assets/e99b1252-9d5c-41d7-9317-55bb9543d935)
 
-
+### Instalación de extensiones
+#### Proceso
+1. Clic derecho en el proyecto
+2. Seleccionar la opción Administrar Paquetes NuGet...
+#### Lista de paquetes que debe instalar.
+1. Microsoft.EntityFrameworkCore
+![imagen](https://github.com/user-attachments/assets/06dea038-50c2-40af-8bf2-d425e9ddc5a5)
+3. Microsoft.EntityFrameworkCore.SqlServer
+![imagen](https://github.com/user-attachments/assets/66ef0bd9-a130-4018-90da-87dbe7153ceb)
