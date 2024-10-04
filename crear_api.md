@@ -48,3 +48,7 @@ La carpeta **📁 Models** ahora ya dispone de todas las clases que se correspon
 ![imagen](https://github.com/user-attachments/assets/ab78caea-1580-4313-9f80-c7a3b2d09450)
 ### Pruebe la API
 1. Ejecute la aplicación.
+![imagen](https://github.com/user-attachments/assets/9bbab468-50cf-4cef-92d2-c9b5fc35b56e)
+Si intenta probar un método de la API, va a tener un mensaje como el siguiente
+![imagen](https://github.com/user-attachments/assets/5d158fb7-445b-41b3-b95f-227d0d2c28d7)
+Para corregir este problema, será necesario hacer algunos cambios en la clase **Program**
