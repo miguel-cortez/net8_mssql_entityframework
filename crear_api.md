@@ -5,6 +5,6 @@
 3. Crear un proyecto
 4. Seleccionar la plantilla ASP.NET Core Web API ![imagen](https://github.com/user-attachments/assets/55518d04-be1d-4077-9b43-c325c38ca8d0)
 5. Siguiente
-6. Escribir nombre al proyecto ![imagen](https://github.com/user-attachments/assets/93320f99-6f85-4e78-9199-7dcc5637da5e)
-
-7. Siguiente
+6. Escribir nombre al proyecto
+![imagen](https://github.com/user-attachments/assets/93320f99-6f85-4e78-9199-7dcc5637da5e)
+8. Siguiente
