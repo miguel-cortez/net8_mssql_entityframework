@@ -61,3 +61,8 @@ Antes de la modificación:
 ![imagen](https://github.com/user-attachments/assets/ed58d5a9-78d5-461a-b4fa-4fd3dcde5ff6)
 Después de la modificación:
 ![imagen](https://github.com/user-attachments/assets/7d800dc8-f4ad-4fc3-a45c-be7115324b45)
+5. Pruebe nuevamente la API, ahora ya puede consultar datos provenientes desde la base de datos
+![imagen](https://github.com/user-attachments/assets/e76a210b-8c93-4b05-ad3e-56335a9adc2c)
+6. Borre el bloque de instrucciones que se muestra en la imagen
+![imagen](https://github.com/user-attachments/assets/791c98c6-25ad-48a2-9b79-cdf4448ba1d2)
+
