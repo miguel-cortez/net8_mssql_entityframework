@@ -22,6 +22,8 @@ El proyecto creado se mostrará como se ve en la siguiente imagen
 ![imagen](https://github.com/user-attachments/assets/06dea038-50c2-40af-8bf2-d425e9ddc5a5)
 3. Microsoft.EntityFrameworkCore.SqlServer
 ![imagen](https://github.com/user-attachments/assets/66ef0bd9-a130-4018-90da-87dbe7153ceb)
+4. Microsoft.EntityFrameworkCore.Tools
+![imagen](https://github.com/user-attachments/assets/230ece1e-e87c-403b-bd6c-d49f53c31da5)
 ### Crear el modelo a partir de una base de datos existente
 #### Proceso
 1. Asegurarse de tener una base de datos ya creada en Microsoft SQL Server y credenciales para establecer conexión con el servidor.
@@ -29,5 +31,9 @@ El proyecto creado se mostrará como se ve en la siguiente imagen
 3. Seleccionar el menú Herramientas > Elegir Administrador de paquetes NuGet > Luego, Consola del Administrador de paquetes
 ![imagen](https://github.com/user-attachments/assets/e7138d21-1e66-4de8-8065-a052e5ed8b92)
 5. Escribir el comando para crear el modelo a partir de la base de datos existente. El comando es el siguiente y solo debe cambiar los parámetros de el nombre del servidor y de base de datos  
-`Scaffold-DbContext "Server=**SERVIDOR1**;Database=**DbNet8Api**;Trusted_Connection=True; Trust Server Certificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force`
-7. 
+`Scaffold-DbContext "Server=SERVIDOR1;Database=BASEDATOS1;Trusted_Connection=True; Trust Server Certificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force`  
+**Resultado**  
+![imagen](https://github.com/user-attachments/assets/4b4770f9-ce76-415f-81dd-58c0359cfe79)
+La carpeta **Models** ahora ya dispone de todas las clases que se corresponden con las tablas de la base de datos  
+![imagen](https://github.com/user-attachments/assets/1bb6ae44-3147-40a7-9952-43ff4293d033)
+
