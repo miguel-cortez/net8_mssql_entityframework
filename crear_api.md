@@ -28,6 +28,6 @@ El proyecto creado se mostrará como se ve en la siguiente imagen
 2. Crear en el proyecto una carpeta llamada Models
 3. Seleccionar el menú Herramientas > Elegir Administrador de paquetes NuGet > Luego, Consola del Administrador de paquetes
 ![imagen](https://github.com/user-attachments/assets/e7138d21-1e66-4de8-8065-a052e5ed8b92)
-5. Escribir el comando para crear el modelo a partir de la base de datos existente. El comando es el siguiente y solo debe cambiar los parámetros de el nombre del servidor y de base de datos
+5. Escribir el comando para crear el modelo a partir de la base de datos existente. El comando es el siguiente y solo debe cambiar los parámetros de el nombre del servidor y de base de datos  
 `Scaffold-DbContext "Server=PROFESORES2;Database=DbGestionProcesos;Trusted_Connection=True; Trust Server Certificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force`
 7. 
