@@ -8,7 +8,6 @@
 6. Escribir nombre al proyecto
 8. ![imagen](https://github.com/user-attachments/assets/93320f99-6f85-4e78-9199-7dcc5637da5e)
 10. Siguiente
-![imagen](https://github.com/user-attachments/assets/d7969681-6ddf-4758-a2a9-98e856f24c86)
 11. Crear
 ![imagen](https://github.com/user-attachments/assets/719e5474-c6ff-4015-a8a5-c297cdc7b086)
 
