@@ -27,7 +27,7 @@ El proyecto creado se mostrará como se ve en la siguiente imagen
 ### Crear el modelo a partir de una base de datos existente
 #### Proceso
 1. Asegurarse de tener una base de datos ya creada en Microsoft SQL Server y credenciales para establecer conexión con el servidor.
-2. Crear en el proyecto una carpeta llamada Models
+2. Crear en el proyecto una carpeta llamada **:file_folder:Models**
 3. Seleccionar el menú Herramientas > Elegir Administrador de paquetes NuGet > Luego, Consola del Administrador de paquetes
 ![imagen](https://github.com/user-attachments/assets/e7138d21-1e66-4de8-8065-a052e5ed8b92)
 5. Escribir el comando para crear el modelo a partir de la base de datos existente. El comando es el siguiente y solo debe cambiar los parámetros de el nombre del servidor y de base de datos  
