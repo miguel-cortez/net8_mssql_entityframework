@@ -36,4 +36,15 @@ El proyecto creado se mostrará como se ve en la siguiente imagen
 ![imagen](https://github.com/user-attachments/assets/4b4770f9-ce76-415f-81dd-58c0359cfe79)
 La carpeta **📁 Models** ahora ya dispone de todas las clases que se corresponden con las tablas de la base de datos  
 ![imagen](https://github.com/user-attachments/assets/1bb6ae44-3147-40a7-9952-43ff4293d033)
-
+### Crear un controlador
+1. Haga clic derecho en la carpeta **📁Controllers**
+2. Seleccione **Agregar**
+3. Haga clic en **Controlador...**
+4. Haga clic en **API**
+5. Seleccione la opción **Controlador de API con acciones que usan Entity Framework**
+6. Seleccione la clase de modelo, la case Db Context y si prefiere, cambie el nombre del controlador.
+![imagen](https://github.com/user-attachments/assets/73d59158-87d8-473b-9b87-398ddc605deb)
+7. Haga clic en **Agregar**
+![imagen](https://github.com/user-attachments/assets/ab78caea-1580-4313-9f80-c7a3b2d09450)
+### Pruebe la API
+1. Ejecute la aplicación.
