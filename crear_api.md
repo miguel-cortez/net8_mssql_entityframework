@@ -10,5 +10,7 @@
 10. Siguiente
 11. Crear
 ![imagen](https://github.com/user-attachments/assets/719e5474-c6ff-4015-a8a5-c297cdc7b086)
+El proyecto creado se mostrará como se ve en la siguiente imagen
+![imagen](https://github.com/user-attachments/assets/e99b1252-9d5c-41d7-9317-55bb9543d935)
 
 
