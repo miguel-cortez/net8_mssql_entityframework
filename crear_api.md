@@ -51,4 +51,13 @@ La carpeta **📁 Models** ahora ya dispone de todas las clases que se correspon
 ![imagen](https://github.com/user-attachments/assets/9bbab468-50cf-4cef-92d2-c9b5fc35b56e)
 Si intenta probar un método de la API, va a tener un mensaje como el siguiente
 ![imagen](https://github.com/user-attachments/assets/5d158fb7-445b-41b3-b95f-227d0d2c28d7)
-Para corregir este problema, será necesario hacer algunos cambios en la clase **Program**
+Para corregir este problema, será necesario hacer algunos cambios en el archivo **appsettings.json** y en la clase **Program**
+2. Modificar el archivo **appsettings.json**. Antes de la modificación, el archivo luce así:
+  ![imagen](https://github.com/user-attachments/assets/b82c6bbc-078b-4e7a-b5cd-04e3599cb46c)
+y después de la modificación:
+![imagen](https://github.com/user-attachments/assets/7e46b7ee-c876-4e7d-80d3-db0d4fbbef5f)
+4. Modificar la clase **Program**
+Antes de la modificación:
+![imagen](https://github.com/user-attachments/assets/ed58d5a9-78d5-461a-b4fa-4fd3dcde5ff6)
+Después de la modificación:
+![imagen](https://github.com/user-attachments/assets/7d800dc8-f4ad-4fc3-a45c-be7115324b45)
